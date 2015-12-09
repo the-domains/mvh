@@ -1,6 +1,6 @@
 name: mvh
 favicon: null
-layout_spectrum: 0.96248
+layout_spectrum: 0.75508
 typography_spectrum: 0.7276083116885275
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3991c7'
     - '#ff005b'
     - '#0a080a'
-  brandStrength: 0
-  lightness: 0.8125
-  saturation: 0.25
-  rhythmicContrast: 0.7364343027584255
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
