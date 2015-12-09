@@ -1,6 +1,6 @@
 name: mvh
 favicon: null
-layout_spectrum: 0.75508
+layout_spectrum: 0.49278
 typography_spectrum: 0.7276083116885275
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f2f2f2'
-    - '#ff81b5'
-    - '#3991c7'
-    - '#ff005b'
-    - '#0a080a'
+    - '#fbfbfb'
+    - '#009cba'
+    - '#686b74'
+    - '#fc285e'
+    - '#191215'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.3125
