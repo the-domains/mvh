@@ -1,7 +1,7 @@
 name: mvh
 favicon: null
-layout_spectrum: 0.39225989300757647
-typography_spectrum: 0.7276083116885275
+layout_spectrum: 1
+typography_spectrum: 0.23886
 cta:
   domain: null
   bucket: null
