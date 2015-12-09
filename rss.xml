@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mvh]]></title>
+        <description><![CDATA[mvh]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Dec 2015 21:13:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to one of my shots. ]]></title>
+            <description><![CDATA[<article><h1>Welcome to one of my shots. </h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e6fd3839d35cc08c301125b00c2debc5ea739cc.png"></article>]]></description>
+            <link>undefinedwelcome-to-one-of-my-shots/index.html</link>
+            <guid isPermaLink="false">c261f5d2-d00f-4804-8f98-f6a22daecece</guid>
+            <pubDate>Wed, 09 Dec 2015 21:13:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
